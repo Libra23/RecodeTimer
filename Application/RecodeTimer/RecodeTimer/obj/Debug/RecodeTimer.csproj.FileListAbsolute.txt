@@ -1,0 +1,27 @@
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.exe.config
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.exe
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.pdb
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.csprojResolveAssemblyReference.cache
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.Form1.resources
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.Properties.Resources.resources
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.csproj.GenerateResource.Cache
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.exe
+C:\Users\kayasuga\documents\visual studio 2017\Projects\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.pdb
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.exe.config
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.exe
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.pdb
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.csprojResolveAssemblyReference.cache
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.Form1.resources
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.Properties.Resources.resources
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.csproj.GenerateResource.Cache
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.exe
+C:\Users\kayalibra\Google ドライブ\共有フォルダ\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.pdb
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.exe.config
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.exe
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\bin\Debug\RecodeTimer.pdb
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.csprojResolveAssemblyReference.cache
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.Form1.resources
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.Properties.Resources.resources
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.csproj.GenerateResource.Cache
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.exe
+C:\Users\kayasuga\Desktop\RecodeTimer\Application\RecodeTimer\RecodeTimer\obj\Debug\RecodeTimer.pdb

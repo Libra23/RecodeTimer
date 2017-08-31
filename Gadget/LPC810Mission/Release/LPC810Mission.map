@@ -1,0 +1,793 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+                              ./src/LPC810Mission.o (SystemCoreClockUpdate)
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                              ./src/uart_rom_int.o (Chip_Clock_GetMainClockRate)
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+                              ./src/LPC810Mission.o (Chip_GPIO_Init)
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+                              ./src/uart_rom_int.o (Chip_SWM_MovablePinAssign)
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+                              ./src/sysinit.o (Chip_SystemInit)
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+                              ./src/uart_rom_int.o (Chip_UART_Init)
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+                              C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o) (Chip_IRC_SetFreq)
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+                              C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o) (RingBuffer_Insert)
+C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+                              C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o) (Chip_SYSCTL_PowerDown)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                              C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o) (memcpy)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc8xx.o (__main)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(strlen.o)
+                              ./src/uart_rom_int.o (strlen)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+                              ./src/form.o (__aeabi_idiv)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_64.o)
+                              C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o) (__aeabi_uldivmod)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+                              ./src/form.o (__aeabi_fmul)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o) (__aeabi_lmul)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+recodeTime          0x12              ./src/LPC810Mission.o
+SystemCoreClock     0x4               C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+nowTime             0x3               ./src/LPC810Mission.o
+state               0x1               ./src/LPC810Mission.o
+counter             0x1               ./src/LPC810Mission.o
+formBuf             0xd               ./src/form.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/LPC810Mission.o
+ .data          0x00000000        0x0 ./src/LPC810Mission.o
+ .bss           0x00000000        0x0 ./src/LPC810Mission.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .crp           0x00000000        0x4 ./src/crp.o
+ .debug_info    0x00000000       0x3b ./src/crp.o
+ .debug_abbrev  0x00000000       0x33 ./src/crp.o
+ .debug_aranges
+                0x00000000       0x18 ./src/crp.o
+ .debug_line    0x00000000       0x2d ./src/crp.o
+ .debug_str     0x00000000      0x120 ./src/crp.o
+ .comment       0x00000000       0x6f ./src/crp.o
+ .ARM.attributes
+                0x00000000       0x31 ./src/crp.o
+ .text          0x00000000        0x0 ./src/form.o
+ .data          0x00000000        0x0 ./src/form.o
+ .bss           0x00000000        0x0 ./src/form.o
+ .text.formHex  0x00000000       0x30 ./src/form.o
+ .text.formFloat
+                0x00000000       0x24 ./src/form.o
+ .rodata.p.3901
+                0x00000000       0x20 ./src/form.o
+ .rodata.hex.3867
+                0x00000000       0x10 ./src/form.o
+ .text          0x00000000        0x0 ./src/mtb.o
+ .data          0x00000000        0x0 ./src/mtb.o
+ .bss           0x00000000        0x0 ./src/mtb.o
+ .debug_line    0x00000000        0x0 ./src/mtb.o
+ .debug_str     0x00000000      0x10a ./src/mtb.o
+ .comment       0x00000000       0x6f ./src/mtb.o
+ .ARM.attributes
+                0x00000000       0x31 ./src/mtb.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/uart_rom_int.o
+ .data          0x00000000        0x0 ./src/uart_rom_int.o
+ .bss           0x00000000        0x0 ./src/uart_rom_int.o
+ .text.errorUART
+                0x00000000        0x2 ./src/uart_rom_int.o
+ .text.getLineUART
+                0x00000000       0x48 ./src/uart_rom_int.o
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_SetPLLBypass
+                0x00000000       0x14 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x1c C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_GetUSARTNBaseClockRate
+                0x00000000       0x48 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_SetUSARTNBaseClockRate
+                0x00000000       0x74 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_GetIOCONCLKDIVClockRate
+                0x00000000       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .text.Chip_Clock_SetIOCONCLKDIV
+                0x00000000       0x14 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .text.Chip_GPIO_DeInit
+                0x00000000       0x14 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .text.Chip_SWM_FixedPinEnable
+                0x00000000       0x30 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00000000       0x4c C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_DeInit
+                0x00000000       0x38 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_Send
+                0x00000000       0x1c C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_SendBlocking
+                0x00000000       0x24 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_Read
+                0x00000000       0x1c C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_ReadBlocking
+                0x00000000       0x24 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_SetBaud
+                0x00000000       0x16 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_RXIntHandlerRB
+                0x00000000       0x20 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_TXIntHandlerRB
+                0x00000000       0x26 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_SendRB
+                0x00000000       0x36 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_ReadRB
+                0x00000000        0xe C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_IRQRBHandler
+                0x00000000       0x2a C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .text.Chip_IRC_SetFreq_ROM
+                0x00000000       0x60 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .text.RingBuffer_Init
+                0x00000000       0x10 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .text.RingBuffer_Insert
+                0x00000000       0x30 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .text.RingBuffer_InsertMult
+                0x00000000       0x7a C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .text.RingBuffer_Pop
+                0x00000000       0x32 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .text.RingBuffer_PopMult
+                0x00000000       0x74 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .debug_info    0x00000000      0x486 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .debug_abbrev  0x00000000      0x178 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .debug_loc     0x00000000      0x58f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .debug_aranges
+                0x00000000       0x40 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .debug_ranges  0x00000000       0xb8 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .debug_line    0x00000000      0x1f0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .debug_str     0x00000000      0x297 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .comment       0x00000000       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .debug_frame   0x00000000       0x90 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .ARM.attributes
+                0x00000000       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(ring_buffer.o)
+ .text          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+ .data          0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+ .bss           0x00000000        0x0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+ .text.Chip_SYSCTL_SetDeepSleepPD
+                0x00000000       0x18 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+ .text.Chip_SYSCTL_SetWakeup
+                0x00000000       0x20 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .text.memcpy   0x00000000        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .comment       0x00000000       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x00000000       0x31 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(strlen.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(strlen.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(strlen.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_64.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_64.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x00000000       0x5a c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x32 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_64.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fmul
+                0x00000000       0xc4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fdiv
+                0x00000000       0xf0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fsub
+                0x00000000      0x130 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fadd
+                0x00000000       0xb8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x00000000       0x10 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x00000000        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2iz
+                0x00000000       0x38 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2uiz
+                0x00000000       0x28 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x00000000       0x64 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x00000000       0x3c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__bhs_ui2f
+                0x00000000       0x62 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x00000000       0x84 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_i2f
+                0x00000000       0x16 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ui2f
+                0x00000000        0xc c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x00000000       0x20 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x00000000        0xc c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2d
+                0x00000000       0x40 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpeq
+                0x00000000       0x20 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmplt
+                0x00000000       0x44 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpgt
+                0x00000000       0x3e c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmple
+                0x00000000       0x40 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpge
+                0x00000000       0x3c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x00000000       0x16 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x00000000       0x24 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x00000000        0xe c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .comment       0x00000000       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .ARM.attributes
+                0x00000000       0x31 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(float.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lmul
+                0x00000000       0x2e c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsl
+                0x00000000       0x18 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsr
+                0x00000000       0x18 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lasr
+                0x00000000       0x18 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lcmp
+                0x00000000       0x14 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_ulcmp
+                0x00000000       0x10 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(llong.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memcpy
+                0x00000000       0x2c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset_lowlevel
+                0x00000000       0x2a c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash4          0x00000000         0x00001000         xr
+RamLoc1          0x10000000         0x00000400         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/LPC810Mission.o
+LOAD ./src/cr_startup_lpc8xx.o
+LOAD ./src/crp.o
+LOAD ./src/form.o
+LOAD ./src/mtb.o
+LOAD ./src/sysinit.o
+LOAD ./src/uart_rom_int.o
+LOAD C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash4 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00001000                __top_MFlash4 = 0x1000
+                0x00001000                __top_Flash = 0x1000
+                0x10000000                __base_RamLoc1 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10000400                __top_RamLoc1 = 0x10000400
+                0x10000400                __top_RAM = 0x10000400
+
+.text           0x00000000      0xe18
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc8xx.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0xe18 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x0 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000000 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x74 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4       0x70 ./src/cr_startup_lpc8xx.o
+                0x000000d4                NMI_Handler
+                0x000000d6                HardFault_Handler
+                0x000000d8                SVC_Handler
+                0x000000da                PendSV_Handler
+                0x000000de                PININT1_IRQHandler
+                0x000000de                PININT2_IRQHandler
+                0x000000de                WKT_IRQHandler
+                0x000000de                PININT7_IRQHandler
+                0x000000de                MRT_IRQHandler
+                0x000000de                UART1_IRQHandler
+                0x000000de                SPI0_IRQHandler
+                0x000000de                SPI1_IRQHandler
+                0x000000de                IntDefaultHandler
+                0x000000de                CMP_IRQHandler
+                0x000000de                PININT3_IRQHandler
+                0x000000de                UART2_IRQHandler
+                0x000000de                PININT5_IRQHandler
+                0x000000de                PININT4_IRQHandler
+                0x000000de                PININT0_IRQHandler
+                0x000000de                BOD_IRQHandler
+                0x000000de                SCT_IRQHandler
+                0x000000de                I2C_IRQHandler
+                0x000000de                WDT_IRQHandler
+                0x000000de                PININT6_IRQHandler
+                0x000000e0                data_init
+                0x000000f2                bss_init
+                0x00000102                ResetISR
+ *(.text*)
+ .text.SysTick_Handler
+                0x00000144       0xc8 ./src/LPC810Mission.o
+                0x00000144                SysTick_Handler
+ .text.startup.main
+                0x0000020c      0x244 ./src/LPC810Mission.o
+                0x0000020c                main
+ .text.formDec  0x00000450       0x90 ./src/form.o
+                0x00000450                formDec
+ .text.formItoa
+                0x000004e0       0x24 ./src/form.o
+                0x000004e0                formItoa
+ .text.SystemInit
+                0x00000504        0x8 ./src/sysinit.o
+                0x00000504                SystemInit
+ .text.waitCallback
+                0x0000050c        0xc ./src/uart_rom_int.o
+                0x0000050c                waitCallback
+ .text.UART0_IRQHandler
+                0x00000518       0x1c ./src/uart_rom_int.o
+                0x00000518                UART0_IRQHandler
+ .text.Init_UART_PinMux
+                0x00000534       0x50 ./src/uart_rom_int.o
+                0x00000534                Init_UART_PinMux
+ .text.setupUART
+                0x00000584       0x88 ./src/uart_rom_int.o
+                0x00000584                setupUART
+ .text.sleepUntilCB
+                0x0000060c       0x14 ./src/uart_rom_int.o
+                0x0000060c                sleepUntilCB
+ .text.putCharUART
+                0x00000620       0x1c ./src/uart_rom_int.o
+                0x00000620                putCharUART
+ .text.getCharUART
+                0x0000063c       0x1c ./src/uart_rom_int.o
+                0x0000063c                getCharUART
+ .text.putLineUART
+                0x00000658       0x50 ./src/uart_rom_int.o
+                0x00000658                putLineUART
+ .text.SystemCoreClockUpdate
+                0x000006a8       0x10 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+                0x000006a8                SystemCoreClockUpdate
+ .text.Chip_Clock_SetSystemPLLSource
+                0x000006b8       0x14 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                0x000006b8                Chip_Clock_SetSystemPLLSource
+ .text.Chip_Clock_SetMainClockSource
+                0x000006cc       0x14 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                0x000006cc                Chip_Clock_SetMainClockSource
+ .text.Chip_Clock_GetWDTOSCRate
+                0x000006e0       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                0x000006e0                Chip_Clock_GetWDTOSCRate
+ .text.Chip_Clock_GetSystemPLLInClockRate
+                0x00000708       0x34 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                0x00000708                Chip_Clock_GetSystemPLLInClockRate
+ .text.Chip_Clock_GetSystemPLLOutClockRate
+                0x0000073c       0x18 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                0x0000073c                Chip_Clock_GetSystemPLLOutClockRate
+ .text.Chip_Clock_GetMainClockRate
+                0x00000754       0x34 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                0x00000754                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x00000788       0x18 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                0x00000788                Chip_Clock_GetSystemClockRate
+ .text.Chip_GPIO_Init
+                0x000007a0       0x14 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+                0x000007a0                Chip_GPIO_Init
+ .text.Chip_SWM_MovablePinAssign
+                0x000007b4       0x24 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+                0x000007b4                Chip_SWM_MovablePinAssign
+ .text.Chip_SetupIrcClocking
+                0x000007d8       0x14 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+                0x000007d8                Chip_SetupIrcClocking
+ .text.Chip_SystemInit
+                0x000007ec        0x8 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+                0x000007ec                Chip_SystemInit
+ .text.Chip_SYSCTL_PeriphReset
+                0x000007f4       0x24 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .text.Chip_UART_Init
+                0x00000818       0x50 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+                0x00000818                Chip_UART_Init
+ .text.Chip_IRC_SetFreq
+                0x00000868       0xbc C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+                0x00000868                Chip_IRC_SetFreq
+ .text.Chip_SYSCTL_PowerDown
+                0x00000924       0x24 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+                0x00000924                Chip_SYSCTL_PowerDown
+ .text.Chip_SYSCTL_PowerUp
+                0x00000948       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+                0x00000948                Chip_SYSCTL_PowerUp
+ .text.__weak_main
+                0x00000970        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                0x00000970                __weak_main
+                0x00000970                __main
+ .text.strlen   0x00000978       0x54 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(strlen.o)
+                0x00000978                strlen
+ .text.__aeabi_division_idivmod
+                0x000009cc       0x78 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+                0x000009cc                __aeabi_idivmod
+                0x000009cc                __aeabi_idiv
+                0x000009d2                __aeabi_uidivmod
+                0x000009d2                __aeabi_uidiv
+ .text.__aeabi_division_idiv0
+                0x00000a44        0x2 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+                0x00000a44                __aeabi_idiv0
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.str1.1
+                0x00000a46       0x33 ./src/LPC810Mission.o
+                                 0x36 (size before relaxing)
+ *fill*         0x00000a79        0x3 ff
+ .rodata.OscRateIn
+                0x00000a7c        0x4 ./src/sysinit.o
+                0x00000a7c                OscRateIn
+ .rodata.ExtRateIn
+                0x00000a80        0x4 ./src/sysinit.o
+                0x00000a80                ExtRateIn
+ .rodata.wdtOSCRate
+                0x00000a84       0x40 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .rodata.config_tab
+                0x00000ac4      0x354 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+                0x00000e18                . = ALIGN (0x4)
+
+.glue_7         0x00000e18        0x0
+ .glue_7        0x00000e18        0x0 linker stubs
+
+.glue_7t        0x00000e18        0x0
+ .glue_7t       0x00000e18        0x0 linker stubs
+
+.vfp11_veneer   0x00000e18        0x0
+ .vfp11_veneer  0x00000e18        0x0 linker stubs
+
+.v4_bx          0x00000e18        0x0
+ .v4_bx         0x00000e18        0x0 linker stubs
+
+.iplt           0x00000e18        0x0
+ .iplt          0x00000e18        0x0 ./src/LPC810Mission.o
+
+.rel.dyn        0x00000e18        0x0
+ .rel.iplt      0x00000e18        0x0 ./src/LPC810Mission.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000e18                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000e18                __exidx_end = .
+                0x00000e18                _etext = .
+
+.mtb_buffer_default
+ *(.mtb*)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x0 load address 0x00000e18
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _edata = .
+
+.igot.plt       0x10000000        0x0 load address 0x00000e18
+ .igot.plt      0x10000000        0x0 ./src/LPC810Mission.o
+
+.bss            0x10000000       0x74 load address 0x00000e18
+                0x10000000                _bss = .
+ *(.bss*)
+ .bss.gotCallback
+                0x10000000        0x1 ./src/uart_rom_int.o
+ *fill*         0x10000001        0x3 
+ .bss.uartHandle
+                0x10000004        0x4 ./src/uart_rom_int.o
+ .bss.uartHandleMEM
+                0x10000008       0x40 ./src/uart_rom_int.o
+ .bss.config_tab_idx
+                0x10000048        0x2 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ *(COMMON)
+ COMMON         0x1000004a       0x17 ./src/LPC810Mission.o
+                0x1000004a                recodeTime
+                0x1000005c                nowTime
+                0x1000005f                state
+                0x10000060                counter
+ COMMON         0x10000061        0xd ./src/form.o
+                0x10000061                formBuf
+ *fill*         0x1000006e        0x2 
+ COMMON         0x10000070        0x4 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+                0x10000070                SystemCoreClock
+                0x10000074                . = ALIGN (0x4)
+                0x10000074                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit         0x10000074        0x0 load address 0x00000e18
+                0x10000074                _noinit = .
+ *(.noinit*)
+                0x10000074                . = ALIGN (0x4)
+                0x10000074                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10000400                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc1 - 0x0))
+                0xeffff951                PROVIDE (__valid_user_code_checksum, (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+OUTPUT(LPC810Mission.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x6a08
+ .debug_info    0x00000000     0x1001 ./src/LPC810Mission.o
+ .debug_info    0x00001001      0x23d ./src/cr_startup_lpc8xx.o
+ .debug_info    0x0000123e      0x25e ./src/form.o
+ .debug_info    0x0000149c       0xdd ./src/sysinit.o
+ .debug_info    0x00001579     0x1434 ./src/uart_rom_int.o
+ .debug_info    0x000029ad       0xe3 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_info    0x00002a90      0xb72 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_info    0x00003602      0x679 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .debug_info    0x00003c7b      0x35e C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .debug_info    0x00003fd9      0x720 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_info    0x000046f9      0xeef C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .debug_info    0x000055e8      0xf91 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_info    0x00006579      0x48f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_abbrev   0x00000000     0x172d
+ .debug_abbrev  0x00000000      0x2c7 ./src/LPC810Mission.o
+ .debug_abbrev  0x000002c7      0x102 ./src/cr_startup_lpc8xx.o
+ .debug_abbrev  0x000003c9       0xf5 ./src/form.o
+ .debug_abbrev  0x000004be       0x85 ./src/sysinit.o
+ .debug_abbrev  0x00000543      0x358 ./src/uart_rom_int.o
+ .debug_abbrev  0x0000089b       0x96 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_abbrev  0x00000931      0x33c C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_abbrev  0x00000c6d      0x133 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .debug_abbrev  0x00000da0      0x157 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .debug_abbrev  0x00000ef7      0x1b6 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_abbrev  0x000010ad      0x2f7 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .debug_abbrev  0x000013a4      0x2af C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_abbrev  0x00001653       0xda C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_loc      0x00000000     0x18dc
+ .debug_loc     0x00000000      0x3ed ./src/LPC810Mission.o
+ .debug_loc     0x000003ed      0x1d4 ./src/cr_startup_lpc8xx.o
+ .debug_loc     0x000005c1      0x353 ./src/form.o
+ .debug_loc     0x00000914      0x160 ./src/uart_rom_int.o
+ .debug_loc     0x00000a74      0x25a C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_loc     0x00000cce       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .debug_loc     0x00000cf6       0xd0 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .debug_loc     0x00000dc6       0x50 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_loc     0x00000e16      0x85f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .debug_loc     0x00001675      0x1aa C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_loc     0x0000181f       0xbd C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_aranges  0x00000000      0x348
+ .debug_aranges
+                0x00000000       0x28 ./src/LPC810Mission.o
+ .debug_aranges
+                0x00000028       0x60 ./src/cr_startup_lpc8xx.o
+ .debug_aranges
+                0x00000088       0x38 ./src/form.o
+ .debug_aranges
+                0x000000c0       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x000000e0       0x68 ./src/uart_rom_int.o
+ .debug_aranges
+                0x00000148       0x20 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_aranges
+                0x00000168       0x80 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_aranges
+                0x000001e8       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .debug_aranges
+                0x00000210       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .debug_aranges
+                0x00000238       0x30 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_aranges
+                0x00000268       0x80 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .debug_aranges
+                0x000002e8       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_aranges
+                0x00000310       0x38 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_ranges   0x00000000      0x5d8
+ .debug_ranges  0x00000000       0xe8 ./src/LPC810Mission.o
+ .debug_ranges  0x000000e8       0x50 ./src/cr_startup_lpc8xx.o
+ .debug_ranges  0x00000138       0x28 ./src/form.o
+ .debug_ranges  0x00000160       0x10 ./src/sysinit.o
+ .debug_ranges  0x00000170       0xd0 ./src/uart_rom_int.o
+ .debug_ranges  0x00000240       0x10 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_ranges  0x00000250       0xe8 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_ranges  0x00000338       0x48 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .debug_ranges  0x00000380       0x30 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .debug_ranges  0x000003b0       0x70 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_ranges  0x00000420       0xe8 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .debug_ranges  0x00000508       0xa8 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_ranges  0x000005b0       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_line     0x00000000     0x1703
+ .debug_line    0x00000000      0x3a3 ./src/LPC810Mission.o
+ .debug_line    0x000003a3       0x88 ./src/cr_startup_lpc8xx.o
+ .debug_line    0x0000042b       0xf1 ./src/form.o
+ .debug_line    0x0000051c       0xe0 ./src/sysinit.o
+ .debug_line    0x000005fc      0x305 ./src/uart_rom_int.o
+ .debug_line    0x00000901       0xf2 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_line    0x000009f3      0x29b C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_line    0x00000c8e      0x14b C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .debug_line    0x00000dd9      0x11f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .debug_line    0x00000ef8      0x1a7 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_line    0x0000109f      0x31d C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .debug_line    0x000013bc      0x212 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_line    0x000015ce      0x135 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+
+.debug_str      0x00000000     0x2537
+ .debug_str     0x00000000      0xb3d ./src/LPC810Mission.o
+                                0xb7f (size before relaxing)
+ .debug_str     0x00000b3d      0x126 ./src/cr_startup_lpc8xx.o
+                                0x25a (size before relaxing)
+ .debug_str     0x00000c63       0x36 ./src/form.o
+                                0x1d7 (size before relaxing)
+ .debug_str     0x00000c99       0x21 ./src/sysinit.o
+                                0x1d3 (size before relaxing)
+ .debug_str     0x00000cba      0xb75 ./src/uart_rom_int.o
+                               0x1562 (size before relaxing)
+ .debug_str     0x0000182f       0x80 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+                                0x1fc (size before relaxing)
+ .debug_str     0x000018af      0x748 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+                                0xbaa (size before relaxing)
+ .debug_str     0x00001ff7       0x23 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+                                0x658 (size before relaxing)
+ .debug_str     0x0000201a       0x7e C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+                                0x562 (size before relaxing)
+ .debug_str     0x00002098      0x153 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+                                0x668 (size before relaxing)
+ .debug_str     0x000021eb      0x225 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+                                0x9e9 (size before relaxing)
+ .debug_str     0x00002410       0xad C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+                                0xe84 (size before relaxing)
+ .debug_str     0x000024bd       0x7a C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+                                0x45e (size before relaxing)
+
+.comment        0x00000000       0xdc
+ .comment       0x00000000       0x6e ./src/LPC810Mission.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/cr_startup_lpc8xx.o
+ .comment       0x0000006e       0x6f ./src/form.o
+ .comment       0x0000006e       0x6f ./src/sysinit.o
+ .comment       0x0000006e       0x6f ./src/uart_rom_int.o
+ .comment       0x0000006e       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .comment       0x0000006e       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .comment       0x0000006e       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .comment       0x0000006e       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .comment       0x0000006e       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .comment       0x0000006e       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .comment       0x0000006e       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .comment       0x0000006e       0x6f C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+ .comment       0x0000006e       0x6e c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                                 0x6f (size before relaxing)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(strlen.o)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 ./src/LPC810Mission.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/cr_startup_lpc8xx.o
+ .ARM.attributes
+                0x00000062       0x31 ./src/form.o
+ .ARM.attributes
+                0x00000093       0x31 ./src/sysinit.o
+ .ARM.attributes
+                0x000000c4       0x31 ./src/uart_rom_int.o
+ .ARM.attributes
+                0x000000f5       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .ARM.attributes
+                0x00000126       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .ARM.attributes
+                0x00000157       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .ARM.attributes
+                0x00000188       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .ARM.attributes
+                0x000001b9       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .ARM.attributes
+                0x000001ea       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .ARM.attributes
+                0x0000021b       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .ARM.attributes
+                0x0000024c       0x31 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
+ .ARM.attributes
+                0x0000027d       0x31 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000002ae       0x31 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x000002df       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x00000300       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+
+.debug_frame    0x00000000      0x6fc
+ .debug_frame   0x00000000       0x54 ./src/LPC810Mission.o
+ .debug_frame   0x00000054       0xb0 ./src/cr_startup_lpc8xx.o
+ .debug_frame   0x00000104       0x88 ./src/form.o
+ .debug_frame   0x0000018c       0x28 ./src/sysinit.o
+ .debug_frame   0x000001b4      0x108 ./src/uart_rom_int.o
+ .debug_frame   0x000002bc       0x28 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(chip_8xx.o)
+ .debug_frame   0x000002e4      0x124 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(clock_8xx.o)
+ .debug_frame   0x00000408       0x30 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(gpio_8xx.o)
+ .debug_frame   0x00000438       0x44 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(swm_8xx.o)
+ .debug_frame   0x0000047c       0x5c C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(sysinit_8xx.o)
+ .debug_frame   0x000004d8      0x180 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(uart_8xx.o)
+ .debug_frame   0x00000658       0x4c C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(irc_8xx.o)
+ .debug_frame   0x000006a4       0x58 C:\Users\kayasuga\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_8xx\Release\liblpc_chip_8xx.a(syscon_8xx.o)
